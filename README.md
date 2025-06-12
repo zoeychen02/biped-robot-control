@@ -1,5 +1,3 @@
-# 基于pyqt的双足机器人调试控制上位机
-robot.py文件中可以修改串口号和波特率
+# Upper computer for debugging and controlling bipedal robots based on pyqt
 
-目前单步调整舵机角度的按钮还没有完成，所以不需要使用
-
+The serial port number and baud rate can be modified in the robo.py file
